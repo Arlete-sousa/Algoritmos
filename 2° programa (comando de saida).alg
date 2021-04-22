@@ -2,7 +2,7 @@ Algoritmo "MeuNome"
 var
    nome: caractere
 inicio
-      Nome <- "Gustavo"
+      Nome <- "Arlete"
       escreva ("Muito prazer ", nome)
 fimalgoritmo
 
